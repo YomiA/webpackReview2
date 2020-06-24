@@ -1,0 +1,11 @@
+html,body {
+  .box {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    background-color: yellow;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
